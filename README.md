@@ -40,4 +40,13 @@ PCB Images
 <img width="712" height="750" alt="PCB layout" src="https://github.com/user-attachments/assets/0a777742-f62d-46ac-ad1b-2fb6052f849d" />
 <img width="706" height="752" alt="wired PCB" src="https://github.com/user-attachments/assets/e866e52a-2545-4443-909a-c8fd5db8082b" />
 
+Bill of Materials(BOM)
 
+| Part / Material | Quantity | Unit Price | Buying Link |
+|---|---|---|---|
+| XIAO ESP32-S3 | 1 | $7.49 | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?srsltid=AYCX9vKBiG3yXomgK8mtnrat1UVJGn21lygE4s9NAptKjhPrmF6KQD_9)|
+| SK-6812 MINI-E RGB LEDs | 2 | $0.48 | [Keebio](https://keeb.io/products/sk-6812-mini-e-rgb-leds-12-pack?srsltid=AYCX9vJFJ4jl6KGsg4EfYtZQteIyzEm-eaSoc4ZBs4j6uTuhBcA0I3lI) |
+| Rotary Encoder | 1 | $1.80 | [MPU6050 module](https://www.amazon.com/dp/B0943SGP34) |
+| Potentiometer | 1 | $1.58 | [DHT11 module](https://www.amazon.com/dp/B0BLG7R99R) |
+| Push Buttons | 2 | $0.18 | [Push buttons](https://www.amazon.com//dp/B0FQP8VYX4) |
+| Custom PCB | 1 | $4.00 | [PCB manufacturing](https://jlcpcb.com/) |
