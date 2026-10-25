@@ -38,4 +38,6 @@ PCB Images
 
 <img width="1191" height="815" alt="schematic layout" src="https://github.com/user-attachments/assets/52cdaa36-72b5-440c-8199-2939ded1d485" />
 <img width="712" height="750" alt="PCB layout" src="https://github.com/user-attachments/assets/0a777742-f62d-46ac-ad1b-2fb6052f849d" />
+<img width="706" height="752" alt="wired PCB" src="https://github.com/user-attachments/assets/e866e52a-2545-4443-909a-c8fd5db8082b" />
+
 
