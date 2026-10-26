@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 7h | 2 |
+| Week 3 | Tier 1 | 8h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-24 – Date: October 23, 2026
 
-**2h**
+**3h**
 
 Date: October 23, 2026
 
